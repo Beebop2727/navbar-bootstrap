@@ -1,0 +1,10 @@
+
+body{
+      /* Created with https://www.css-gradient.com */
+  background: no-repeat;
+  background: #D9784A;
+  background: -webkit-linear-gradient(top left, #D9784A, #377DE3);
+  background: -moz-linear-gradient(top left, #D9784A, #377DE3);
+  background: linear-gradient(to bottom right, #D9784A, #377DE3);
+
+}
